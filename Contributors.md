@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 - [Karan Singh] (https://github.com/karansinghgit)
+- [Pranesh S] (https://github.com/pranesh-sp)
 - [flashintosh] (https://github.com/flashintosh)
 - [Saurabh Sukhatankar] (https://github.com/SukhatankarSV)
 - [Shivam Birla](https://github.com/Shivam4747)
@@ -45,6 +46,7 @@
 - [Adwait Thattey](https://github.com/adwait-thattey)
 - [Josh Javier](https://github.com/joshjavier)
 - [Amy McGowan]
+- [Maheep Walia](https://github.com/waliamaheep)
 - [Alan Garcia](https://github.com/alandvgarcia)
 - [Ankit Srivastava](https://github.com/a18nov)
 - [Saurabh Agarwal](https://github.com/saurabhagarwal8)
@@ -3986,6 +3988,7 @@ Stephan Sharpe
 - [Natália Oliveira](https://github.com/nfo94)
 - [Aslam](https://github.com/Hotdogcode)
 - [wxia33](https://github.com/Wxia33)
+- [Aditya Pradhan](https://github.com/AdityaPradhan1)
 - [Michael Haas](https://github.com/micha2718l)
 - [Sebastian Adamo](https://github.com/vergeofeden)
 - [David Ross](https://github.com/DavidRoss3)
@@ -16443,6 +16446,7 @@ Mário Baltazar
 - [a.m](https://github.com/amerre)
 - [MAYUR SONI](https://github.com//mayurssoni)
 - [R.Kling](https://github.com//bugfi5h)
+- [0xBACE](https://github.com/0xBACE)
 - [pikadev](https://github.com/pikadev)
 - [Saswata Mukherjee](https://github.com/saswatamcode)
 - [Nitin Sharma](https://github.com/huntlax)
@@ -16473,3 +16477,4 @@ Mário Baltazar
 - [Si Nguyen](https://github.com/nguyenphusi/)
 - [Broleaf](https://github.com/BroLeaf)
 - [Torfab](https://github.com/Torfab)
+- [zranck](https://github.com/zranck)
